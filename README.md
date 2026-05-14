@@ -16,9 +16,9 @@ Es una aplicación web progresiva diseñada para el cuidado integral de mascotas
   ### Mi Proyecto Destacado
 #### **APP de Notas con Flutter** 
 Es una aplicación web progresiva diseñada para el cuidado integral de mascotas. 
-- **Características:** Chat de asistencia inteligente, diseño responsivo y pasarela de pagos.
-- **Tecnologías:** HTML5, CSS3 Moderno, JavaScript, Flutter.
- | [📁 Ver Repositorio]()
+- **Características:** App de notas inteligentes, diseño responsivo y recordatorio de notas.
+- **Tecnologías:** HTML5, CSS3 Moderno, firebase, Flutter.
+ | [📁 Ver Repositorio](https://github.com/st22030378-max/Notasss.git)
 
 ---
 
