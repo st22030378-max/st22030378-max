@@ -1,4 +1,4 @@
-# ¡Hola! Soy [CAROLINA TENORIO ALBA] 👋
+# ¡Hola! Soy CAROLINA TENORIO ALBA 👋
 
 ###  Desarrolladora de Software | Apasionada por las PWAs
 
@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Mi Proyecto Destacado
+### Mi Proyecto Destacado
 #### **PetCare PWA** 🐾
 Es una aplicación web progresiva diseñada para el cuidado integral de mascotas. 
 - **Características:** Chat de asistencia inteligente, diseño responsivo y pasarela de pagos.
