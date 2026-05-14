@@ -13,6 +13,13 @@ Es una aplicación web progresiva diseñada para el cuidado integral de mascotas
 - **Tecnologías:** HTML5, CSS3 Moderno, JavaScript, Render.
 - [🌐 Ver Demo en Vivo](https://pwapet.onrender.com) | [📁 Ver Repositorio](https://github.com/st22030378-max/PWApet.git)
 
+  ### Mi Proyecto Destacado
+#### **APP de Notas con Flutter** 
+Es una aplicación web progresiva diseñada para el cuidado integral de mascotas. 
+- **Características:** Chat de asistencia inteligente, diseño responsivo y pasarela de pagos.
+- **Tecnologías:** HTML5, CSS3 Moderno, JavaScript, Flutter.
+ | [📁 Ver Repositorio]()
+
 ---
 
 ### 🛠️ Mi Stack Técnico
